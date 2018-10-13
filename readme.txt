@@ -3,4 +3,4 @@ Git is free software
 Git changes
 Git changes
 Creating a new branch is quick and simple
-
+add merge
